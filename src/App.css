@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin: 10px;
 }
 
 .App-logo {
@@ -26,6 +27,28 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.Navbar {
+  gap: 5em;
+  background: cyan;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+
+.links {
+  gap: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.user {
+  gap:1em;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
 
 @keyframes App-logo-spin {
