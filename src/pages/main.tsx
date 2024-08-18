@@ -1,3 +1,3 @@
-export const Main = () =>{
-    return <div>Home Page</div>
+export const Main = () => {
+    return <div>Home Page~</div>
 }
